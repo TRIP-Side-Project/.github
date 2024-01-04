@@ -10,7 +10,7 @@
 ## :ferris_wheel: 프로젝트 팀원 소개 
 
 
-| 조혜진 (FE, 팀장) | 박효정 (FE) | 김동민 (FE) | 지승용 (BE)| 김동욱 (BE) |
+| 조혜진 (FE, 팀장) | 박효정 (FE) | 김동민 (BE) | 지승용 (BE)| 권동욱 (BE) |
 | :---: | :---: | :---: | :---: | :---: |
 | <img alt="조혜진" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/020fb74d-6711-48e8-aa51-10b5774b8209" height="180" width="180"> | <img alt="박효정" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/8768e032-d4c0-4e9e-9299-02883018b057" height="180" width="180"> | <img alt="김동민" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/71a51dd2-e140-4323-ba08-86cdabbf7ff8" height="180" width="180"> | <img alt="지승용" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/47922fd5-410e-4ba8-a9da-4737393d8640" height="180" width="180"> | <img alt="김동욱" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/858b28a5-ee93-486c-a13f-1d70abdffab5" height="180" width="180"> |
 | 깃허브 링크 | 깃허브 링크  | 깃허브 링크  | 깃허브 링크 | 깃허브 링크 |
