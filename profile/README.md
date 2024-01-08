@@ -14,7 +14,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <img alt="조혜진" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/020fb74d-6711-48e8-aa51-10b5774b8209" height="180" width="180"> | <img alt="박효정" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/8768e032-d4c0-4e9e-9299-02883018b057" height="180" width="180"> | <img alt="김동민" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/71a51dd2-e140-4323-ba08-86cdabbf7ff8" height="180" width="180"> | <img alt="지승용" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/47922fd5-410e-4ba8-a9da-4737393d8640" height="180" width="180"> | <img alt="김동욱" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/858b28a5-ee93-486c-a13f-1d70abdffab5" height="180" width="180"> |
 | 깃허브 링크 | 깃허브 링크  | 깃허브 링크  | 깃허브 링크 | 깃허브 링크 |
-| 담당 업무 소개 | 담당 업무 소개  | 회원 기능 구현  | 담당 업무 소개  | 담당 업무 소개 |
+| 담당 업무 소개 | 담당 업무 소개  | 회원 기능 구현  | 담당 업무 소개  | 담당 업무 소개 |
 
 
 ## :hammer: 사용 기술 스택
