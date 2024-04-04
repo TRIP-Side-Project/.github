@@ -1,5 +1,7 @@
 # TRIPTRIP 프로젝트 
-사진 적용 예정 
+<p align="center">
+  <img src="https://github.com/TRIP-Side-Project/.github/assets/110151638/f34f76c4-03f7-4db7-964c-c74347d45d1a" width="70%" />
+</p>
 
 해외 말고도 국내에도 아주 멋진 여행지가 많습니다. 국내 여행에 대한 정보를 쉽게 얻을 수 있고 여행을 떠나는 다른 여행자들과도 다양한 이야기를 나눌 수 있는 TRIPTRIP 입니다. 
 
@@ -39,7 +41,30 @@
 ## :gift: 구현 기능 
 
 
-## :file_folder: 기타 자료들 
+### 01. 로그인/회원가입
+<p a>
+  <img src="https://github.com/TRIP-Side-Project/.github/assets/110151638/382a0da1-713c-46a9-bdce-f0057aa3dfeb" width="50%"/>
+  <img src="https://github.com/TRIP-Side-Project/.github/assets/110151638/483e00d5-ba10-48a6-938b-73fc1e4c24d8" width="50%" />
+</p>
+
+
+### 02. 홈 조회 
+![상품 조회](https://github.com/TRIP-Side-Project/.github/assets/110151638/81b40926-1f9b-46cf-b232-7a37d6620576)
+
+
+
+### 03. 상품 상세 조회 
+
+![화면 기록 2024-04-04 오후 11 25 21](https://github.com/TRIP-Side-Project/.github/assets/110151638/686eb66c-e268-4c6f-a9b2-808324c77e67)
+
+
+### 04. 게시판 
+![게시판 등록](https://github.com/TRIP-Side-Project/.github/assets/110151638/c6f12752-bb35-4fc2-8882-f864b90bb7e9)
+
+
+### 05. 마이페이지
+
+![마이페이지](https://github.com/TRIP-Side-Project/.github/assets/110151638/5fc2d095-f805-43c9-b450-bb7928f07902)
 
 
 
